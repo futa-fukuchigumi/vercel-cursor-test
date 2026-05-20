@@ -1,8 +1,8 @@
 export default function Home() {
   return (
     <main>
-      <h1>最初のVercelテストです</h1>
-      <p>GitHub と Vercel の連携確認中です。</p>
+      <h1>Cursorで編集したテストです。</h1>
+      <p>Cursor の保存確認です。</p>
     </main>
   );
 }
