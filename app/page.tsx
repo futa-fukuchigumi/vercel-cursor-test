@@ -1,8 +1,8 @@
 export default function Home() {
   return (
     <main>
-      <h1>vercel-cursor-test</h1>
-      <p>Minimal Next.js (App Router + TypeScript) ready for Vercel.</p>
+      <h1>最初のVercelテストです</h1>
+      <p>GitHub と Vercel の連携確認中です。</p>
     </main>
   );
 }
